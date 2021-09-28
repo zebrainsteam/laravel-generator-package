@@ -1,5 +1,5 @@
 {
-    "name": "Zebrainsteam/laravel-generator-package",
+    "name": "zebrainsteam/laravel-generator-package",
     "description": "Generator the composer package for Laravel",
     "type": "library",
     "license": "GPL-3.0-only",
